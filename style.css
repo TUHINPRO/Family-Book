@@ -1,0 +1,17 @@
+body {
+    text-align:center;
+    background-color:aqua;
+}
+#pictures {
+    border-width:2px;
+    border-style:dashed;
+    width: 300px;
+    height:300px;
+    padding:5px;
+    }
+ #title {
+    font-size:80px;
+    }
+#reason {
+    font-size:50px;
+    }
